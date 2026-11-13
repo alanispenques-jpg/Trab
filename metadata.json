@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Métodos Numéricos",
+  "description": "Plataforma acadêmica interativa para resolução numérica e passo a passo de Equações Diferenciais Ordinárias, Método dos Mínimos Quadrados e Integração Numérica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
